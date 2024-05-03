@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=malisio&label=Profile%20views&color=0e75b6&style=flat" alt="malisio" /> </p>
 
-- 🔭 I’m currently working on **C notes**
+- 🔭 I’m currently working on **Hacker rank repo.**
 
 - 🌱 I’m currently learning **C**
 
