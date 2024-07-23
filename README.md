@@ -8,7 +8,7 @@
 
 ### 🛠️ Some Tools and Languages I Work With:
 
-	 [![My Skills](https://skillicons.dev/icons?i=c,python,bash,vim,git,linux)](https://skillicons.dev)
+	[![My Skills](https://skillicons.dev/icons?i=c,python,bash,vim,git,linux,github)](https://skillicons.dev)
 
 ---
 
