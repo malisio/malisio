@@ -1,7 +1,7 @@
 ### Whoami 👾
 <h4 align="left">
-  Fuck this bullshit "oh my name is etc... I do and and plz fuck off I do kernel shit and play ctfs"🍕.<br><br>
- I use fucking C as my main langauge Cz I do kernel shit also I play ctfs mainly forens and Some times Rev.
+  Fuck this bullshit "oh my name is etc... I do this and this ... plz fuck off I do kernel shit and play ctfs"🍕.<br><br>
+ I use fucking C as my main langauge Cz I do kernel shit also I play ctfs mainly forens and Some times Rev and Koth (King of the hill).
 </h4>
 
 ---
