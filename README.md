@@ -1,14 +1,15 @@
 ### Whoami 👾
 <h4 align="left">
-  Fuck this bullshit "oh my name is etc... I do this and this ... plz fuck off I do kernel shit and play ctfs"🍕.<br><br>
- I use fucking C as my main langauge Cz I do kernel shit also I play ctfs mainly forens and Some times Rev and Koth (King of the hill).
+  Fuck this bullshit "oh my name is etc... I do this and this ... plz fuck off I like kernel stuff and like IT in general "🍕.<br><br>
+C is my love Language But Currently learning cpp && assembly.
+oh I forgot to mention I use arch btw (Debian && ubuntu incels).
 </h4>
 
 ---
 
 ### 🛠️ Some Tools and Languages I Work With:
 
-[![My Skills](https://skillicons.dev/icons?i=c,linux,python,vim,git,arch,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,linux,python,vim,git,arch,github,cpp)](https://skillicons.dev)
 
 ---
 
