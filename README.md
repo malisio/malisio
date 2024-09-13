@@ -9,7 +9,7 @@ oh I forgot to mention I use arch btw (Debian && ubuntu incels).
 
 ### 🛠️ Some Tools and Languages I Work With:
 
-[![My Skills](https://skillicons.dev/icons?i=c,linux,python,vim,git,arch,github,cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,linux,python,vim,neovim,git,arch,github,mysql)](https://skillicons.dev)
 
 ---
 
